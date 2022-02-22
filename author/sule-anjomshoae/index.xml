@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sule Anjomshoae | Academic</title>
+    <link>/author/sule-anjomshoae/</link>
+      <atom:link href="/author/sule-anjomshoae/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sule Anjomshoae</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Sule Anjomshoae</title>
+      <link>/author/sule-anjomshoae/</link>
+    </image>
+    
+    <item>
+      <title>From Spoken Thoughts to Automated Driving Commentary: Predicting and Explaining Intelligent Vehicles&#39; Actions</title>
+      <link>/publication/001_conf/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/001_conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-based Image Explanations for Deep Neural Networks</title>
+      <link>/publication/conference-paper-copy-3/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Explainable and Trustworthy Autonomous Physical Systems</title>
+      <link>/publication/conference-paper-copy-6/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

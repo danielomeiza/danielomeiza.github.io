@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Omeiza | Academic</title>
+    <link>/author/daniel-omeiza/</link>
+      <atom:link href="/author/daniel-omeiza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Omeiza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Daniel Omeiza</title>
+      <link>/author/daniel-omeiza/</link>
+    </image>
+    
+    <item>
+      <title>Realizing the Potential of AI in Africa: It All Turns on Trust</title>
+      <link>/publication/conference-paper-copy-7/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Not Explain? Effects of Explanations on Human Perceptions of Autonomous Driving</title>
+      <link>/publication/conference-paper-copy-2/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing and Explaining Collision Risk in Dynamic Environments forAutonomous Driving Safety</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Spoken Thoughts to Automated Driving Commentary: Predicting and Explaining Intelligent Vehicles&#39; Actions</title>
+      <link>/publication/001_conf/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/001_conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fait accompli? an empirical study into the absence of consent to third-party tracking in android apps</title>
+      <link>/publication/conference-paper-copy-5/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-based Image Explanations for Deep Neural Networks</title>
+      <link>/publication/conference-paper-copy-3/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep convolutional neural network for plant seedlings classification</title>
+      <link>/publication/d/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-based Communication with a Predictive Text Algorithm</title>
+      <link>/publication/e/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Machine Learning for Large-Scale Urban Land-Use Forecasting in Sub-Saharan Africa</title>
+      <link>/publication/conference-paper-copy-9/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanations in Autonomous Driving: A Survey</title>
+      <link>/publication/conference-paper-copy-4/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Explainable and Trustworthy Autonomous Physical Systems</title>
+      <link>/publication/conference-paper-copy-6/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards accountability: providing intelligible explanations in autonomous driving</title>
+      <link>/publication/conference-paper-copy/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

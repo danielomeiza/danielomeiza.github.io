@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/tag/academic/</link>
+      <atom:link href="/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>I am co-organising the Fairness and Transparency in HRI workshop at the 2022 HRI conference</title>
+      <link>/post/getting-started2/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;As robots become more ubiquitous across human spaces, it is becoming increasingly relevant for researchers to ask the question, &amp;ldquo;how can we ensure that we are designing robots to be sufficiently equipped to treat people fairly?&#39;&#39;. This workshop brings together researchers across the fields of Human-Robot Interaction (HRI), fairness in machine learning, design, and transparency in AI to shed light on the relevant methodological challenges surrounding issues of fairness and transparency in HRI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://workshophrifair.wixsite.com/fair-transparency&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I am Co-organising the IJCAI AI for Autonomous Driving Workshop</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Autonomous driving provides a rich source of high-impact research problems for the broad artificial intelligence community across different fields such as computer vision, machine learning, robotics, language and speech, civil engineering, human-computer interaction, environmental science, and neuroscience. Further, full self-driving capability (“Level 5”) is far from solved and extremely complex, beyond the capability of any one institution or company, necessitating larger-scale communication and collaboration between researchers in different fields. The goal of this workshop is to embrace interdisciplinary knowledge in different fields of AI, from both academia and industry, to discuss how different fields can contribute to self-driving technology altogether and increase its social impact.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ai4ad.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marina Jirotka | Academic</title>
+    <link>/author/marina-jirotka/</link>
+      <atom:link href="/author/marina-jirotka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marina Jirotka</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Marina Jirotka</title>
+      <link>/author/marina-jirotka/</link>
+    </image>
+    
+    <item>
+      <title>Why Not Explain? Effects of Explanations on Human Perceptions of Autonomous Driving</title>
+      <link>/publication/conference-paper-copy-2/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Spoken Thoughts to Automated Driving Commentary: Predicting and Explaining Intelligent Vehicles&#39; Actions</title>
+      <link>/publication/001_conf/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/001_conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanations in Autonomous Driving: A Survey</title>
+      <link>/publication/conference-paper-copy-4/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards accountability: providing intelligible explanations in autonomous driving</title>
+      <link>/publication/conference-paper-copy/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper-copy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
