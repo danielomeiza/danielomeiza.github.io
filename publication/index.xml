@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Daniel Omeiza</title>
+    <link>https://danielomeiza.github.io/publication/</link>
+      <atom:link href="https://danielomeiza.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniel Omeiza</copyright><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://danielomeiza.github.io/media/icon_hua847be62610df6027b286ad22e1e5431_36281_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://danielomeiza.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Explainable Action Prediction through Self-Supervision on Scene Graphs</title>
+      <link>https://danielomeiza.github.io/publication/001_a_scene_graphs/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/001_a_scene_graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual Explanations for Automated Commentary Driving</title>
+      <link>https://danielomeiza.github.io/publication/001_b_commentary/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/001_b_commentary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Spoken Thoughts to Automated Driving Commentary: Predicting and Explaining Intelligent Vehicles&#39; Actions</title>
+      <link>https://danielomeiza.github.io/publication/001_commentary-tree/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/001_commentary-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanations in Autonomous Driving: A Survey</title>
+      <link>https://danielomeiza.github.io/publication/002_av-survey/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/002_av-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Accountability: Providing Intelligible Explanations in Autonomous Driving</title>
+      <link>https://danielomeiza.github.io/publication/003_towards-accountability/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/003_towards-accountability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing and Explaining Collision Risk in Dynamic Environments forAutonomous Driving Safety</title>
+      <link>https://danielomeiza.github.io/publication/004_collision-risk/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/004_collision-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Not Explain? Effects of Explanations on Human Perceptions of Autonomous Driving</title>
+      <link>https://danielomeiza.github.io/publication/005_trust/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/005_trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-based Image Explanations for Deep Neural Networks</title>
+      <link>https://danielomeiza.github.io/publication/006_cicu/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/006_cicu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Explainable and Trustworthy Autonomous Physical Systems</title>
+      <link>https://danielomeiza.github.io/publication/007_chi-workshop/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/007_chi-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Grad-CAM&#43;&#43;: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models</title>
+      <link>https://danielomeiza.github.io/publication/008_smooth-grad/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/008_smooth-grad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fait Accompli? An Empirical Study into the Absence of Consent to Third-Party Tracking in Android Apps</title>
+      <link>https://danielomeiza.github.io/publication/009_tracking/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/009_tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realizing the Potential of AI in Africa: It All Turns on Trust</title>
+      <link>https://danielomeiza.github.io/publication/0091_ai-trust-in-africa/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/0091_ai-trust-in-africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Machine Learning for Large-Scale Urban Land-Use Forecasting in Sub-Saharan Africa</title>
+      <link>https://danielomeiza.github.io/publication/0092_remote-sensing/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/0092_remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Convolutional Neural Network for Plant Seedlings Classification</title>
+      <link>https://danielomeiza.github.io/publication/0093_leaf_detection/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/0093_leaf_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG-based Communication with a Predictive Text Algorithm</title>
+      <link>https://danielomeiza.github.io/publication/0094_eeg-/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/0094_eeg-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
