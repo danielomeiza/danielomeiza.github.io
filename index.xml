@@ -5,12 +5,28 @@
     <link>https://danielomeiza.github.io/</link>
       <atom:link href="https://danielomeiza.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Omeiza</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniel Omeiza</copyright><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniel Omeiza</copyright><lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielomeiza.github.io/media/icon_hua847be62610df6027b286ad22e1e5431_36281_512x512_fill_lanczos_center_3.png</url>
       <title>Daniel Omeiza</title>
       <link>https://danielomeiza.github.io/</link>
     </image>
+    
+    <item>
+      <title>CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs</title>
+      <link>https://danielomeiza.github.io/publication/001_a_corner_case/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/001_a_corner_case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I made the 2023 MIT Tech Review 35 Innovators Under 35 global list!</title>
+      <link>https://danielomeiza.github.io/post/mit-tech-review/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/post/mit-tech-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My final DPhil thesis is now available for download</title>
@@ -22,9 +38,9 @@
     
     <item>
       <title>Explainable Action Prediction through Self-Supervision on Scene Graphs</title>
-      <link>https://danielomeiza.github.io/publication/001_a_scene_graphs/</link>
+      <link>https://danielomeiza.github.io/publication/001_a_scene_graphs-copy/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://danielomeiza.github.io/publication/001_a_scene_graphs/</guid>
+      <guid>https://danielomeiza.github.io/publication/001_a_scene_graphs-copy/</guid>
       <description></description>
     </item>
     

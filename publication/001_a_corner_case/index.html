@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="This work explores scene graphs as a distille representation of high-level information for autonomous driving, applied to future driver-action prediction. Given the scarcity and strong imbalance of data samples, we propose a self-supervision pipeline to infer representative and well-separated embeddings. Key aspects are interpretability and explainability; as such, we embed in our architecture attention mechanisms that can create spatial and temporal heatmaps on the scene graphs. We evaluate our system on the ROAD dataset against a fully-supervised approach, showing the superiority of our training regime." />
+  <meta name="description" content="Corner case scenarios are an essential tool for testing and validating the safety of autonomous vehicles (AVs). As these scenarios are often insufficiently present in naturalistic driving datasets, augmenting the data with synthetic corner cases greatly enhances the safe operation of AVs in unique situations. However, the generation of synthetic, yet realistic, corner cases poses a significant challenge. In this work, we introduce a novel approach based on Heterogeneous Graph Neural Networks (HGNNs) to transform regular driving scenarios into corner cases. To achieve this, we first generate concise representations of regular driving scenes as scene graphs, minimally manipulating their structure and properties. Our model then learns to perturb those graphs to generate corner cases using attention and triple embeddings. The input and perturbed graphs are then imported back into simulation to generate corner case scenarios. Our model successfully learned to produce corner cases from input scene graphs, achieving 89.9\% prediction accuracy on our testing dataset. We further validate the generated scenarios on baseline autonomous driving methods, demonstrating our model’s ability to effectively create critical situations for the baselines." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://danielomeiza.github.io/publication/001_a_scene_graphs/" />
+  <link rel="alternate" hreflang="en-us" href="https://danielomeiza.github.io/publication/001_a_corner_case/" />
 
   
 
@@ -280,7 +280,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hua847be62610df6027b286ad22e1e5431_36281_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua847be62610df6027b286ad22e1e5431_36281_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://danielomeiza.github.io/publication/001_a_scene_graphs/" />
+  <link rel="canonical" href="https://danielomeiza.github.io/publication/001_a_corner_case/" />
 
   
   
@@ -296,18 +296,18 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Daniel Omeiza" />
-  <meta property="og:url" content="https://danielomeiza.github.io/publication/001_a_scene_graphs/" />
-  <meta property="og:title" content="Explainable Action Prediction through Self-Supervision on Scene Graphs | Daniel Omeiza" />
-  <meta property="og:description" content="This work explores scene graphs as a distille representation of high-level information for autonomous driving, applied to future driver-action prediction. Given the scarcity and strong imbalance of data samples, we propose a self-supervision pipeline to infer representative and well-separated embeddings. Key aspects are interpretability and explainability; as such, we embed in our architecture attention mechanisms that can create spatial and temporal heatmaps on the scene graphs. We evaluate our system on the ROAD dataset against a fully-supervised approach, showing the superiority of our training regime." /><meta property="og:image" content="https://danielomeiza.github.io/publication/001_a_scene_graphs/featured.png" />
-    <meta property="twitter:image" content="https://danielomeiza.github.io/publication/001_a_scene_graphs/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://danielomeiza.github.io/publication/001_a_corner_case/" />
+  <meta property="og:title" content="CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs | Daniel Omeiza" />
+  <meta property="og:description" content="Corner case scenarios are an essential tool for testing and validating the safety of autonomous vehicles (AVs). As these scenarios are often insufficiently present in naturalistic driving datasets, augmenting the data with synthetic corner cases greatly enhances the safe operation of AVs in unique situations. However, the generation of synthetic, yet realistic, corner cases poses a significant challenge. In this work, we introduce a novel approach based on Heterogeneous Graph Neural Networks (HGNNs) to transform regular driving scenarios into corner cases. To achieve this, we first generate concise representations of regular driving scenes as scene graphs, minimally manipulating their structure and properties. Our model then learns to perturb those graphs to generate corner cases using attention and triple embeddings. The input and perturbed graphs are then imported back into simulation to generate corner case scenarios. Our model successfully learned to produce corner cases from input scene graphs, achieving 89.9\% prediction accuracy on our testing dataset. We further validate the generated scenarios on baseline autonomous driving methods, demonstrating our model’s ability to effectively create critical situations for the baselines." /><meta property="og:image" content="https://danielomeiza.github.io/publication/001_a_corner_case/featured.png" />
+    <meta property="twitter:image" content="https://danielomeiza.github.io/publication/001_a_corner_case/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2023-05-15T00:00:00&#43;00:00"
+        content="2023-10-21T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2023-05-15T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-10-21T00:00:00&#43;00:00">
   
 
   
@@ -329,20 +329,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://danielomeiza.github.io/publication/001_a_scene_graphs/"
+    "@id": "https://danielomeiza.github.io/publication/001_a_corner_case/"
   },
-  "headline": "Explainable Action Prediction through Self-Supervision on Scene Graphs",
+  "headline": "CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs",
   
   "image": [
-    "https://danielomeiza.github.io/publication/001_a_scene_graphs/featured.png"
+    "https://danielomeiza.github.io/publication/001_a_corner_case/featured.png"
   ],
   
-  "datePublished": "2023-05-15T00:00:00Z",
-  "dateModified": "2023-05-15T00:00:00Z",
+  "datePublished": "2023-10-21T00:00:00Z",
+  "dateModified": "2023-10-21T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Pawit Kochakarn"
+    "name": "George Drayson"
   },
   
   "publisher": {
@@ -353,7 +353,7 @@
       "url": "https://danielomeiza.github.io/media/logo_hua847be62610df6027b286ad22e1e5431_36281_192x192_fit_lanczos_3.png"
     }
   },
-  "description": "This work explores scene graphs as a distille representation of high-level information for autonomous driving, applied to future driver-action prediction. Given the scarcity and strong imbalance of data samples, we propose a self-supervision pipeline to infer representative and well-separated embeddings. Key aspects are interpretability and explainability; as such, we embed in our architecture attention mechanisms that can create spatial and temporal heatmaps on the scene graphs. We evaluate our system on the ROAD dataset against a fully-supervised approach, showing the superiority of our training regime."
+  "description": "Corner case scenarios are an essential tool for testing and validating the safety of autonomous vehicles (AVs). As these scenarios are often insufficiently present in naturalistic driving datasets, augmenting the data with synthetic corner cases greatly enhances the safe operation of AVs in unique situations. However, the generation of synthetic, yet realistic, corner cases poses a significant challenge. In this work, we introduce a novel approach based on Heterogeneous Graph Neural Networks (HGNNs) to transform regular driving scenarios into corner cases. To achieve this, we first generate concise representations of regular driving scenes as scene graphs, minimally manipulating their structure and properties. Our model then learns to perturb those graphs to generate corner cases using attention and triple embeddings. The input and perturbed graphs are then imported back into simulation to generate corner case scenarios. Our model successfully learned to produce corner cases from input scene graphs, achieving 89.9\\% prediction accuracy on our testing dataset. We further validate the generated scenarios on baseline autonomous driving methods, demonstrating our model’s ability to effectively create critical situations for the baselines."
 }
 </script>
 
@@ -369,11 +369,11 @@
 
 
 
-  <title>Explainable Action Prediction through Self-Supervision on Scene Graphs | Daniel Omeiza</title>
+  <title>CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs | Daniel Omeiza</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f555e5ea03371fc42bfafbf805c4174f" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b18fa91c1cc244aa59e0a241f545e40b" >
 
   
   
@@ -647,7 +647,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Explainable Action Prediction through Self-Supervision on Scene Graphs</h1>
+  <h1>CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs</h1>
 
   
 
@@ -674,7 +674,7 @@
     
       
     
-    May 2023
+    October 2023
   </span>
   
 
@@ -716,7 +716,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2302.03477.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2309.09844.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -742,9 +742,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 254px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 227px;">
   <div style="position: relative">
-    <img src="/publication/001_a_scene_graphs/featured_hu2300455b1f5801df0a231a2d80a44159_697925_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <img src="/publication/001_a_corner_case/featured_hu60b5a351dd494f5924006042e17e0411_584152_720x0_resize_lanczos_3.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -755,7 +755,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">This work explores scene graphs as a distille representation of high-level information for autonomous driving, applied to future driver-action prediction. Given the scarcity and strong imbalance of data samples, we propose a self-supervision pipeline to infer representative and well-separated embeddings. Key aspects are interpretability and explainability; as such, we embed in our architecture attention mechanisms that can create spatial and temporal heatmaps on the scene graphs. We evaluate our system on the ROAD dataset against a fully-supervised approach, showing the superiority of our training regime.</p>
+    <p class="pub-abstract">Corner case scenarios are an essential tool for testing and validating the safety of autonomous vehicles (AVs). As these scenarios are often insufficiently present in naturalistic driving datasets, augmenting the data with synthetic corner cases greatly enhances the safe operation of AVs in unique situations. However, the generation of synthetic, yet realistic, corner cases poses a significant challenge. In this work, we introduce a novel approach based on Heterogeneous Graph Neural Networks (HGNNs) to transform regular driving scenarios into corner cases. To achieve this, we first generate concise representations of regular driving scenes as scene graphs, minimally manipulating their structure and properties. Our model then learns to perturb those graphs to generate corner cases using attention and triple embeddings. The input and perturbed graphs are then imported back into simulation to generate corner case scenarios. Our model successfully learned to produce corner cases from input scene graphs, achieving 89.9% prediction accuracy on our testing dataset. We further validate the generated scenarios on baseline autonomous driving methods, demonstrating our model’s ability to effectively create critical situations for the baselines.</p>
     
 
     
@@ -767,7 +767,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In 2023 IEEE International Conference on Robotics Automation (ICRA)</div>
+          <div class="col-12 col-md-9">Submission to the 2024 IEEE International Conference on Robotics Automation (ICRA)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -799,7 +799,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://danielomeiza.github.io/publication/001_a_scene_graphs/&amp;text=Explainable%20Action%20Prediction%20through%20Self-Supervision%20on%20Scene%20Graphs" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://danielomeiza.github.io/publication/001_a_corner_case/&amp;text=CC-SGG:%20Corner%20Case%20Scenario%20Generation%20using%20Learned%20Scene%20Graphs" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -812,7 +812,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://danielomeiza.github.io/publication/001_a_scene_graphs/&amp;t=Explainable%20Action%20Prediction%20through%20Self-Supervision%20on%20Scene%20Graphs" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://danielomeiza.github.io/publication/001_a_corner_case/&amp;t=CC-SGG:%20Corner%20Case%20Scenario%20Generation%20using%20Learned%20Scene%20Graphs" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -825,7 +825,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Explainable%20Action%20Prediction%20through%20Self-Supervision%20on%20Scene%20Graphs&amp;body=https://danielomeiza.github.io/publication/001_a_scene_graphs/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=CC-SGG:%20Corner%20Case%20Scenario%20Generation%20using%20Learned%20Scene%20Graphs&amp;body=https://danielomeiza.github.io/publication/001_a_corner_case/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -838,7 +838,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://danielomeiza.github.io/publication/001_a_scene_graphs/&amp;title=Explainable%20Action%20Prediction%20through%20Self-Supervision%20on%20Scene%20Graphs" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://danielomeiza.github.io/publication/001_a_corner_case/&amp;title=CC-SGG:%20Corner%20Case%20Scenario%20Generation%20using%20Learned%20Scene%20Graphs" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -891,16 +891,6 @@
 
   
 
-  
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
   
 
   

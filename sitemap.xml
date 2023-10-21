@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://danielomeiza.github.io/publication/001_a_corner_case/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://danielomeiza.github.io/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielomeiza.github.io/publication/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielomeiza.github.io/post/mit-tech-review/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielomeiza.github.io/post/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://danielomeiza.github.io/post/final-thesis-available/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://danielomeiza.github.io/post/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://danielomeiza.github.io/publication/001_a_scene_graphs/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://danielomeiza.github.io/publication/</loc>
+    <loc>https://danielomeiza.github.io/publication/001_a_scene_graphs-copy/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://danielomeiza.github.io/post/iv-workshop/</loc>

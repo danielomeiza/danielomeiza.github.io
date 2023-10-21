@@ -5,7 +5,7 @@
     <link>https://danielomeiza.github.io/publication/</link>
       <atom:link href="https://danielomeiza.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniel Omeiza</copyright><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Daniel Omeiza</copyright><lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielomeiza.github.io/media/icon_hua847be62610df6027b286ad22e1e5431_36281_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs</title>
+      <link>https://danielomeiza.github.io/publication/001_a_corner_case/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://danielomeiza.github.io/publication/001_a_corner_case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Explainable Action Prediction through Self-Supervision on Scene Graphs</title>
-      <link>https://danielomeiza.github.io/publication/001_a_scene_graphs/</link>
+      <link>https://danielomeiza.github.io/publication/001_a_scene_graphs-copy/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://danielomeiza.github.io/publication/001_a_scene_graphs/</guid>
+      <guid>https://danielomeiza.github.io/publication/001_a_scene_graphs-copy/</guid>
       <description></description>
     </item>
     
